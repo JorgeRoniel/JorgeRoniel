@@ -1,7 +1,5 @@
 ## Hey, bro, wassup?!
 
-- 🔭 Atualmente estou cumprindo estágio curricular
-- 🌱 Estou finalizando o meu ensino médio e o meu curso técnico em informática
 - 📫 Para contactar-me: jorge.infor4g@gmail.com
 
 <div>
