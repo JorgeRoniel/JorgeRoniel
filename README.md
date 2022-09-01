@@ -1,6 +1,6 @@
 ## Hey, bro, wassup?!
 
-- 📫 Para contactar-me: jorge.infor4g@gmail.com
+- 📫 Contact me: jorge.infor4g@gmail.com
 
 <div>
   <a href="https://github.com/JorgeRoniel">
