@@ -18,7 +18,6 @@
   <img align="center" alt="django-icon" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="flask-icon" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="mysql-icon" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="mysql-icon" height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
   
   ##
