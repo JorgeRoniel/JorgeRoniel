@@ -1,4 +1,4 @@
-## Olá, seja bem vindo!
+## Hello, World!
 
 <div>
   <a href="https://github.com/JorgeRoniel">
@@ -6,6 +6,9 @@
 </div>
   
   ##
+  ## About me
+  I am a Brazilian computer science student, and I work as a software developer. Currently, I can create solid solutions for your systems and contribute to all aspects of development, always looking for better ways to solve problems. My passion for computers began when I was 15, in high school, when I discovered programming — and since then, I have never stopped learning more and more.
+  
   <h2>My Developer Skills</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="html-icon" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
